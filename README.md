@@ -31,6 +31,5 @@ Esta aplicación permite a los usuarios generar menús semanales personalizados 
 3. Uso
     Para iniciar la aplicación, ejecuta el siguiente comando en tu terminal:
     ```bash
-    Copiar código
     python main.py
     Sigue las instrucciones en pantalla para generar menús personalizados y explorar recetas.
